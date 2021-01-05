@@ -77,7 +77,7 @@
       "factory_url": "https://dl.google.com/dl/android/aosp/sunfish-rq1a.210105.002-factory-0d4aed85.zip",
       "factory_sha256": "0d4aed85bafc40f29a83a465acb5ab4281060b31643faaf33d5c7c3dc62045c6",
       "ota_url": "https://dl.google.com/dl/android/aosp/sunfish-ota-rq1a.210105.002-70ca530d.zip",
-      "ota_sha256": "70ca530d8d7fa0c86414870dfc5fe571a5a4af0c182c0becc9659c26ea27b8b0",
+      "ota_sha256": "70ca530d8d7fa0c86414870dfc5fe571a5a4af0c182c0becc9659c26ea27b8b0"
     },
     "redfin": {
       "build_id": "RQ1A.210105.003",
